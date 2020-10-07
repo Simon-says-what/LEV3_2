@@ -1,0 +1,31 @@
+body {
+    background-color: aqua;
+    position: relative;
+.Kreis {
+    position: relative;
+    right: 15%;
+    top:50%;
+}
+.c1 {
+    position: absolute;
+    line-hei
+}
+.WOMAN {
+    position: relative;
+    top: 200%;
+    right: 20%;
+  
+}
+.c2 {
+    position: absolute;
+    right: 48%;
+    top:10em;
+}
+.logo {
+    position: absolute;
+    left: 37em;
+    top:30em;
+}
+.nav {
+    position: absolute;
+}
